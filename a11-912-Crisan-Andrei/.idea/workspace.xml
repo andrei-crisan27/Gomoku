@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ed5d666-4a06-44d4-9aee-44b3d8bfb471" name="Changes" comment="" />
+    <list default="true" id="6ed5d666-4a06-44d4-9aee-44b3d8bfb471" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="22qEx3zdvlIGI7Unittojt3tsGc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -171,6 +173,7 @@
       <workItem from="1643313816968" duration="46000" />
       <workItem from="1675961947560" duration="300000" />
       <workItem from="1675962641833" duration="136000" />
+      <workItem from="1675963247932" duration="91000" />
     </task>
     <task id="LOCAL-00001" summary="added_gomoku">
       <created>1675962662450</created>
